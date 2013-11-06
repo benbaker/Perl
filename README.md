@@ -1,1 +1,1 @@
-Playing with the fundamentals of manipulating strings with Perl.
+Experiments with io, hashes, strings and regex
