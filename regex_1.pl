@@ -38,3 +38,4 @@ nxt;
 $speech =~ s/I know/\.\.\./g;
 print $speech;
 print "\n";
+
